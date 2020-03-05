@@ -1,0 +1,640 @@
+fileFormatVersion: 2
+guid: a013e2dd2109ccc4a93b0b6e0eed8fac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 999959127161326635
+    second: SnakeSprite_0
+  - first:
+      213: 5500727154180210336
+    second: SnakeSprite_1
+  - first:
+      213: -7551392474615379023
+    second: SnakeSprite_2
+  - first:
+      213: -2399396747516755
+    second: SnakeSprite_3
+  - first:
+      213: 4264861462868001047
+    second: SnakeSprite_4
+  - first:
+      213: 6642344590819006483
+    second: SnakeSprite_5
+  - first:
+      213: 1889003978426964695
+    second: SnakeSprite_6
+  - first:
+      213: -4169117982313976436
+    second: SnakeSprite_7
+  - first:
+      213: 2185558455095317225
+    second: SnakeSprite_8
+  - first:
+      213: 8955653790778494953
+    second: SnakeSprite_9
+  - first:
+      213: 7726107381728260790
+    second: SnakeSprite_10
+  - first:
+      213: 7358193753129421969
+    second: SnakeSprite_11
+  - first:
+      213: -1946797350594152080
+    second: SnakeSprite_12
+  - first:
+      213: -2840018562163184331
+    second: SnakeSprite_13
+  - first:
+      213: 2645427671360770732
+    second: SnakeSprite_14
+  - first:
+      213: 1186510685626385205
+    second: SnakeSprite_15
+  - first:
+      213: 6378446431106212822
+    second: SnakeSprite_16
+  - first:
+      213: -1190589360507187653
+    second: SnakeSprite_17
+  - first:
+      213: -2864220822762084951
+    second: SnakeSprite_18
+  - first:
+      213: 7230594326261533050
+    second: SnakeSprite_0
+  - first:
+      213: -2122884946973107482
+    second: SnakeSprite_1
+  - first:
+      213: -2922779028669878431
+    second: SnakeSprite_2
+  - first:
+      213: -1190153989972073214
+    second: SnakeSprite_3
+  - first:
+      213: -1845630526648480460
+    second: SnakeSprite_4
+  - first:
+      213: -8050377098393650417
+    second: SnakeSprite_5
+  - first:
+      213: 1028875606014438476
+    second: SnakeSprite_6
+  - first:
+      213: 4902036086971628935
+    second: SnakeSprite_7
+  - first:
+      213: 1486588095295257098
+    second: SnakeSprite_8
+  - first:
+      213: 6161623508302398851
+    second: SnakeSprite_9
+  - first:
+      213: 2563618643607252978
+    second: SnakeSprite_10
+  - first:
+      213: -659752740453621517
+    second: SnakeSprite_11
+  - first:
+      213: -305312976371486279
+    second: SnakeSprite_12
+  - first:
+      213: 8111124190637624198
+    second: SnakeSprite_13
+  - first:
+      213: -8246919205933237750
+    second: SnakeSprite_14
+  - first:
+      213: 8770354153803698034
+    second: SnakeSprite_15
+  - first:
+      213: 6055693806157103855
+    second: SnakeSprite_16
+  - first:
+      213: -7482352068322284304
+    second: SnakeSprite_17
+  - first:
+      213: -3212845962844481005
+    second: SnakeSprite_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SnakeSprite_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 27
+        width: 214
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f47d3b2ae86b970800000000000000
+      internalID: 8770354153803698034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeSprite_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 657
+        width: 214
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7906cbfa3b385460800000000000000
+      internalID: 7230594326261533050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeSprite_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 654
+        width: 187
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ead4a4636ff982e0800000000000000
+      internalID: -2122884946973107482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeSprite_2
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 655
+        width: 181
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fab2f75f33077d0800000000000000
+      internalID: -2922779028669878431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeSprite_3
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 656
+        width: 212
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20563b77049bb7fe0800000000000000
+      internalID: -1190153989972073214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeSprite_4
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 654
+        width: 248
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d008880d00366e0800000000000000
+      internalID: -1845630526648480460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeSprite_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 442
+        width: 232
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b7e468ea0574090800000000000000
+      internalID: -8050377098393650417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeSprite_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 445
+        width: 223
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c2e8699ec474e00800000000000000
+      internalID: 1028875606014438476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeSprite_7
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 446
+        width: 237
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78df61859d7870440800000000000000
+      internalID: 4902036086971628935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeSprite_8
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 446
+        width: 232
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0af5631ffb61a410800000000000000
+      internalID: 1486588095295257098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeSprite_9
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 447
+        width: 229
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3858f046feb728550800000000000000
+      internalID: 6161623508302398851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeSprite_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 237
+        width: 223
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff67cfd29dc39320800000000000000
+      internalID: 2563618643607252978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeSprite_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 237
+        width: 214
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0eba9c06618d6f0800000000000000
+      internalID: -659752740453621517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeSprite_12
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 235
+        width: 203
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b17f02377f43cbf0800000000000000
+      internalID: -305312976371486279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeSprite_13
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 234
+        width: 187
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b88001a70809070800000000000000
+      internalID: 8111124190637624198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeSprite_14
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 235
+        width: 203
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ab00f1dae0d8d80800000000000000
+      internalID: -8246919205933237750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeSprite_16
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 27
+        width: 223
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe20788ae652a0450800000000000000
+      internalID: 6055693806157103855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeSprite_17
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 27
+        width: 229
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcad33ef68592890800000000000000
+      internalID: -7482352068322284304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeSprite_18
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 26
+        width: 232
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a5b928e9da963d0800000000000000
+      internalID: -3212845962844481005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
